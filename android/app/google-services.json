@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937990149783",
+    "firebase_url": "https://way-1d1cd.firebaseio.com",
+    "project_id": "way-1d1cd",
+    "storage_bucket": "way-1d1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937990149783:android:d72c4648b0670526c57bd2",
+        "android_client_info": {
+          "package_name": "br.com.spotway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937990149783-gvg3ev4bvd5op8gtr22mj4evsg4iof73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.spotway",
+            "certificate_hash": "9fcdfae9eb793a7e685f7d61779391cee26b120e"
+          }
+        },
+        {
+          "client_id": "937990149783-1ikldlqko96pjqmjumhajrbnruhu5je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQNRWtgwMEuEwSqiOnvY3HMiXbn0hhNeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937990149783-1ikldlqko96pjqmjumhajrbnruhu5je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
